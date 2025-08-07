@@ -1,0 +1,10 @@
+Date,Time,Text,Sentiment,Emotion
+2025-08-07,20:47:49,"i feel happy but deep down i feel nervous because i have an interview
+",NEGATIVE,fear
+2025-08-07,20:48:30,I am so happy today I finally got a job,POSITIVE,joy
+2025-08-07,20:49:20,"I had a good day but it was a little hectic, nothing much but just the normal work",NEGATIVE,sadness
+2025-08-07,20:49:47,"I had a good day but it was a little hectic, nothing much but just the normal work, but I had my favourite food today, so that lifted me up",POSITIVE,joy
+2025-08-07,20:55:22,"I had a good day but it was a little hectic, nothing much but just the normal work, but I had my favourite food today, so that lifted me up",POSITIVE,joy
+2025-08-07,20:57:37,i wnat to die,NEGATIVE,sadness
+2025-08-07,20:58:08,I am so angry at her for treating me like that,NEGATIVE,anger
+2025-08-07,20:58:20,I am so pissed at her for treating me like that,NEGATIVE,anger
