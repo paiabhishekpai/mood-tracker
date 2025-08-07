@@ -19,7 +19,7 @@ A simple AI-powered mood tracking app that helps users log their daily emotions,
 - Pandas, NumPy, Matplotlib
 - Transformers (for sentiment analysis)
 - Scikit-learn
-- (Optional) PyTorch
+- PyTorch
 
 ---
 
@@ -27,8 +27,8 @@ A simple AI-powered mood tracking app that helps users log their daily emotions,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/paiabhishekpai/moodtracker.git
-cd mood tracker
+git clone https://github.com/paiabhishekpai/mood-tracker.git
+cd mood-tracker
 ```
 
 ### 2. Create a virtual environment
